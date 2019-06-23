@@ -1,0 +1,49 @@
+/* Name Generator Styles */
+
+
+
+body {
+    background: #cdc6ef;
+}
+
+.container {
+    text-align: center;
+    background: #ffeaf6;
+    background-image: url(../img/transparent-bg.png);
+    border: 10px solid #fff;
+    border-radius: 20%;
+    box-shadow: 2px 3px #b89fce;
+    padding: 60px;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 180px;
+}
+
+h1 {
+    color: #fc7db0;
+    font-family: 'Mali', cursive;
+    text-shadow: 2px 2px #fff;
+}
+
+.animated-heart {
+    width: 20%;
+}
+
+#placeholder {
+    color: #fc7db0;
+    padding: 20px 0;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px #fff;
+}
+
+.btn {
+    background-color: #fff;
+    border: 2px solid #cdc6ef;
+    font-family: 'Mali', cursive;
+    padding: 10px;
+    color: #f75f8e;
+    border-radius: 10%;
+}
