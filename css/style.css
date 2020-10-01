@@ -19,7 +19,7 @@ body {
     margin-top: 180px;
 }
 
-h1 {
+.container h1 {
     color: #fc7db0;
     font-family: 'Mali', cursive;
     text-shadow: 2px 2px #fff;
